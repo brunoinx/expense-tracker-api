@@ -3,14 +3,6 @@
 ![ci badge](https://github.com/yonathan06/fastify-typescript-boilerplate/workflows/CI/badge.svg)
 [![Sync Vulnerabilities Status](https://app.snyk.io/test/github/yonathan06/fastify-typescript-boilerplate/badge.svg)](https://snyk.io/test/github/yonathan06/fastify-typescript-boilerplate)
 
-Create a new server:
-```bash
-pnpx degit yonathan06/fastify-typescript-starter my-server
-```
-or `npx`.
-
-See [degit](https://github.com/Rich-Harris/degit) docs for detailed explaination 
-
 ## Included in the boilerplate
 
 - TypeScript (using esbuild for fast compilation, and tsx for development)
