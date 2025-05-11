@@ -41,7 +41,8 @@
     "env-schema": "^6.0.0",
     "fastify": "^5.1.0",
     "fastify-plugin": "^5.0.1",
-    "pg": "^8.15.6"
+    "pg": "^8.15.6",
+    "zod": "^3.24.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.1",
